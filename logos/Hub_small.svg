@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128"><title>A plaquette of four sites: hoppings along the sides, an interaction along a diagonal</title>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="128" y2="128"><stop offset="0" stop-color="#1F4E79"/><stop offset="1" stop-color="#B02573"/></linearGradient></defs>
+<rect width="128" height="128" rx="28" fill="url(#g)"/>
+<rect x="1" y="1" width="126" height="126" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2"/>
+<g stroke="#ffffff" stroke-width="11" stroke-linecap="round"><line x1="34" y1="34" x2="94" y2="34"/><line x1="94" y1="34" x2="94" y2="94"/><line x1="94" y1="94" x2="34" y2="94"/><line x1="34" y1="94" x2="34" y2="34"/></g>
+<circle cx="34" cy="34" r="11" fill="#ffffff"/><circle cx="94" cy="34" r="11" fill="#ffffff"/><circle cx="94" cy="94" r="11" fill="#ffffff"/><circle cx="34" cy="94" r="11" fill="#ffffff"/>
+</svg>
