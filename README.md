@@ -12,11 +12,13 @@
 <p align="center">
   <a href="https://n4sd4q.github.io/"><b>Website</b></a>&nbsp;·
   <a href="https://github.com/n4sd4q/FunctionalDiagrams"><b>FunctionalDiagrams</b></a>&nbsp;·
-  <a href="https://github.com/n4sd4q/FermiWick"><b>FermiWick</b></a>
+  <a href="https://github.com/n4sd4q/FermiWick"><b>FermiWick</b></a>&nbsp;·
+  <a href="https://github.com/n4sd4q/Summa"><b>Summa</b></a>
 </p>
 
 Calculations as one does them on paper, done by the computer: Feynman diagrams derived by functional derivatives, and
-fermion operators brought to normal order, contracted in the state you assume and solved exactly on a cluster. Every
+fermion operators brought to normal order, contracted in the state you assume and solved exactly on a cluster, and tensor
+contractions written as on paper, the order of the contractions chosen for you. Every
 package is a paclet installed with one line, with a showcase, a manual, a guided tour and its tests, and is free software.
 
 ## The packages
@@ -46,6 +48,19 @@ package is a paclet installed with one line, with a showcase, a manual, a guided
       <a href="https://n4sd4q.github.io/FermiWick/Documentation/FermiWick_Manual.pdf">Manual</a> ·
       <a href="https://github.com/n4sd4q/FermiWick">Repository</a>
       <a href="https://github.com/n4sd4q/FermiWick/releases/latest"><img src="https://img.shields.io/github/v/release/n4sd4q/FermiWick?label=release&color=8A2880" alt="latest release" align="right"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><a href="https://n4sd4q.github.io/Summa/"><img src="logos/Summa_badge.svg" width="72" alt="The logo of Summa: the sigma of a sum drawn as a tensor network"></a></td>
+    <td>
+      <a href="https://n4sd4q.github.io/Summa/"><b>Summa</b></a> — fast Einstein summation<br>
+      Tensor contractions written as on paper, with the syntax of numpy.einsum: the order of the contractions and the
+      kernel of each are chosen for you; indices shared by any number of tensors, and the tensor network drawn.<br>
+      <a href="https://n4sd4q.github.io/Summa/">Website</a> ·
+      <a href="https://n4sd4q.github.io/Summa/Showcase/Summa_Showcase.pdf">Showcase</a> ·
+      <a href="https://n4sd4q.github.io/Summa/Documentation/Summa_Manual.pdf">Manual</a> ·
+      <a href="https://github.com/n4sd4q/Summa">Repository</a>
+      <a href="https://github.com/n4sd4q/Summa/releases/latest"><img src="https://img.shields.io/github/v/release/n4sd4q/Summa?label=release&color=8E3032" alt="latest release" align="right"></a>
     </td>
   </tr>
 </table>
